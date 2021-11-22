@@ -1,0 +1,13 @@
+[ {
+  "id" : 1216,
+  "firstName" : "Matei",
+  "lastName" : "Stroia",
+  "totalCredits" : 11,
+  "enrolledCourses" : [ 1141 ]
+}, {
+  "id" : 113,
+  "firstName" : "Luca",
+  "lastName" : "Tompea",
+  "totalCredits" : 12,
+  "enrolledCourses" : [ 1141, 653 ]
+} ]

@@ -1,0 +1,22 @@
+[ {
+  "id" : 1141,
+  "name" : "Algebra liniara",
+  "teacherId" : 1200,
+  "maxEnrollment" : 45,
+  "studentsEnrolled" : [ 1216 ],
+  "credits" : 18
+}, {
+  "id" : 653,
+  "name" : "Analiza matematica",
+  "teacherId" : 1200,
+  "maxEnrollment" : 45,
+  "studentsEnrolled" : [ 1216 ],
+  "credits" : 11
+}, {
+  "id" : 807,
+  "name" : "Programare distribuita",
+  "teacherId" : 1200,
+  "maxEnrollment" : 88,
+  "studentsEnrolled" : [ ],
+  "credits" : 8
+} ]
